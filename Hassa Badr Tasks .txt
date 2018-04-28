@@ -1,0 +1,3 @@
+-1-create enviroment
+-2-make Fans and thier animations 
+-3-Write Script to exhange animation to the Fans 
